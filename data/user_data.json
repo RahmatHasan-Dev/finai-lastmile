@@ -1,0 +1,66 @@
+{
+    "balance": 4958050310,
+    "expenses": [
+        {
+            "item": "maling",
+            "amount": 934678,
+            "category": "Tagihan",
+            "date": "2026-05-01"
+        },
+        {
+            "item": "bangunan",
+            "amount": 91515012,
+            "category": "Investasi",
+            "date": "2026-05-01"
+        }
+    ],
+    "budget": {},
+    "goals": [
+        {
+            "id": 1,
+            "name": "nikah",
+            "target_amount": 50000,
+            "current_amount": 0,
+            "deadline": "2026-05-01",
+            "created_date": "2026-05-01",
+            "status": "active",
+            "roi_percentage": 0.0
+        }
+    ],
+    "investments": [
+        {
+            "id": 1,
+            "name": "BBCA",
+            "amount": 8000000,
+            "type": "Saham",
+            "purchase_date": "2026-05-01",
+            "current_value": 8000000,
+            "returns": 0
+        }
+    ],
+    "income": [
+        {
+            "item": "modal",
+            "amount": 5000000000,
+            "category": "Tagihan",
+            "date": "2026-05-01"
+        },
+        {
+            "item": "bangunan",
+            "amount": 500000,
+            "category": "Investasi",
+            "date": "2026-05-01"
+        },
+        {
+            "item": "coba",
+            "amount": 50000000,
+            "category": "Investasi",
+            "date": "2026-05-01"
+        }
+    ],
+    "settings": {
+        "currency": "Rp",
+        "theme": "light",
+        "monthly_budget_limit": 0
+    }
+}

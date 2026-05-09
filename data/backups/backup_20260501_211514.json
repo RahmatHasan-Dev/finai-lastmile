@@ -1,0 +1,45 @@
+{
+    "balance": 4958050310,
+    "expenses": [
+        {
+            "item": "maling",
+            "amount": 934678,
+            "category": "Tagihan",
+            "date": "2026-05-01"
+        },
+        {
+            "item": "bangunan",
+            "amount": 91515012,
+            "category": "Investasi",
+            "date": "2026-05-01"
+        }
+    ],
+    "budget": {},
+    "goals": [],
+    "investments": [],
+    "income": [
+        {
+            "item": "modal",
+            "amount": 5000000000,
+            "category": "Tagihan",
+            "date": "2026-05-01"
+        },
+        {
+            "item": "bangunan",
+            "amount": 500000,
+            "category": "Investasi",
+            "date": "2026-05-01"
+        },
+        {
+            "item": "coba",
+            "amount": 50000000,
+            "category": "Investasi",
+            "date": "2026-05-01"
+        }
+    ],
+    "settings": {
+        "currency": "Rp",
+        "theme": "light",
+        "monthly_budget_limit": 0
+    }
+}
